@@ -1,0 +1,18 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Avenues",
+      "reason": null,
+      "repositoryURL": "https://github.com/dreymonde/Avenues.git",
+      "version": "0.1.1"
+    },
+    {
+      "package": "Shallows",
+      "reason": null,
+      "repositoryURL": "https://github.com/dreymonde/Shallows.git",
+      "version": "0.1.0"
+    }
+  ],
+  "version": 1
+}
